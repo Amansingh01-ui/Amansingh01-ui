@@ -16,3 +16,10 @@ I am currently looking for new roles as a:
 - HTML+ CSS and Basics of JS 🌐
 - SQL and NoSQL 🗃️
 - MATLAB 🧮
+
+Links 🔗
+- https://www.linkedin.com/in/aman-singh-3b0b131ba/
+- https://www.kaggle.com/amansingh33
+
+Email 📧
+- en.aman35@gmail.com

@@ -1,5 +1,6 @@
 Hi, I'm Aman! 👋
-- 🚀 About Me
+
+🚀 About Me
 - I'm an aspiring Data Scientist📊, Learning new things 🖥️, pushing the boundaries of my comfort zone✅, and providing value are my main driving forces💱.
 
 I am currently looking for new roles as a:

@@ -1,7 +1,7 @@
 Hi, I'm Aman! 👋
 
 🚀 About Me
-- I'm an aspiring Data Scientist📊 Having an one year of experience in the data and business anlyst domain📈, Learning new things 🖥️, pushing the boundaries of my comfort zone✅, and providing value are my main driving forces💱.
+- I'm an aspiring Data Scientist📊 Having an one year of experience in the data and business analyst domain📈, Learning new things 🖥️, pushing the boundaries of my comfort zone✅, and providing value are my main driving forces💱.
 
 I am currently looking for new roles as a:
 - Data Scientist

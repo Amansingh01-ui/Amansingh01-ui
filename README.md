@@ -11,7 +11,7 @@ I am currently looking for new roles as a:
 
 🛠 My Skills include...
 - Python 🐍
-- Data Visualization: Power BI, Excel, Basics of Tableau, Seaborn, Matplotlib and ggplot2 📈
+- Data Visualization: Power BI, Excel, Tableau, Seaborn, Matplotlib and ggplot2 📈
 - Machine Learning 🤖
 - Git and Version Control 🛠️
 - HTML+ CSS and Basics of JS 🌐

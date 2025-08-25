@@ -1,5 +1,3 @@
-I Don’t Just Automate Work. I Help Businesses Scale with AI.
-
 I’m Aman Singh, founder of ScaleSmart AI, where we build AI-powered automation solutions that eliminate inefficiencies, optimize workflows, and drive business growth.
 
 In today’s fast-moving world, businesses that embrace AI early don’t just survive they dominate. Yet, many companies are stuck using outdated manual processes, missing out on the potential of AI-driven automation.

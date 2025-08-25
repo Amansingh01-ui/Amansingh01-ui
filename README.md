@@ -21,4 +21,4 @@ THE FUTURE BELONGS TO THE LISTENERS AND SEERS
 In an AI-saturated world where 90% of content will soon be synthetic, the businesses that thrive won’t be the ones shouting the loudest. They’ll be the ones that listen the deepest.
 
 Email 📧
-- en.aman35@gmail.com
+- aman@scalesmartai.in

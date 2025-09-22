@@ -1,5 +1,5 @@
-### Hi, I'm Aman 👋
-- 👨‍💻 AI/ML Engineer
+### 🏄‍♂️ Aman Singh
+I'm an AI & ML Engineer
 
 
 ## 🌐 Socials:

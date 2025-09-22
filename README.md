@@ -4,7 +4,7 @@ Founder at [ScaleSmart AI](https://scalesmartai.in/) | Gen AI & ML Engineer | Ex
 
 I build and scale AI-driven solutions that help businesses unlock efficiency, innovation, and growth. With deep expertise in Generative AI, Machine Learning, and Large Language Models (LLMs), I specialize in designing and deploying AI agents, Retrieval-Augmented Generation (RAG) systems, and custom intelligent automation tailored to real-world use cases.
 
-- Founder of ScaleSmart AI, where we bridge cutting-edge AI research with practical business applications.
+- Founder of ScaleSmart AI, where we bridge cutting-edge AI solution with practical business applications.
 - Skilled in end-to-end AI product development – from data engineering to fine-tuned model deployment.
 - Passionate about helping enterprises, startups, and entrepreneurs leverage AI for scale, strategy, and success.
 

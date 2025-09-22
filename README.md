@@ -1,6 +1,6 @@
 ### 🏄‍♂️ Aman Singh
 
-Founder at [[ScaleSmart AI](https://scalesmartai.in/)] | Gen AI & ML Engineer | Expert in LLMs, AI Agents & RAG
+Founder at [ScaleSmart AI(https://scalesmartai.in/)] | Gen AI & ML Engineer | Expert in LLMs, AI Agents & RAG
 
 I build and scale AI-driven solutions that help businesses unlock efficiency, innovation, and growth. With deep expertise in Generative AI, Machine Learning, and Large Language Models (LLMs), I specialize in designing and deploying AI agents, Retrieval-Augmented Generation (RAG) systems, and custom intelligent automation tailored to real-world use cases.
 

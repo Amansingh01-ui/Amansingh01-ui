@@ -8,7 +8,7 @@ I build and scale AI-driven solutions that help businesses unlock efficiency, in
 - Skilled in end-to-end AI product development – from data engineering to fine-tuned model deployment.
 - Passionate about helping enterprises, startups, and entrepreneurs leverage AI for scale, strategy, and success.
 
-Always exploring how Gen AI and autonomous agents can transform industries and redefine the future of work.
+Always exploring how AI can transform industries and redefine the future of work.
 
 
 ## 🌐 Socials:
